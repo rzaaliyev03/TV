@@ -1,0 +1,6 @@
+{
+  "name": "Smart IPTV",
+  "description": "Smart TV, veb brauzer və mobil cihazlar üçün Azərbaycan, Türkiyə və dünya canlı TV kanallarını izləmək üçün müasir IPTV veb saytı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
